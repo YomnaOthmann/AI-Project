@@ -1,0 +1,10 @@
+O >> fully
+D >> determenstic
+E >> sequential
+S >> static
+A >> single
+
+P >> speed accuracy
+E >> dataset of audio files containing songs from different genres , website
+A >> speaker , input song 
+S >> mike , output song genre
